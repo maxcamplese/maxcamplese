@@ -16,6 +16,7 @@ UT Austin student in International Relations and Global Studies, with a Security
 | [Help-Desk Triage](https://github.com/maxcamplese/help-desk-triage) | A Claude skill that turns messy user IT reports into structured tickets, with test cases and a checker for every ticket it writes |
 | [Class Manager](https://github.com/maxcamplese/class-manager) | A calendar-first semester organizer (React, TypeScript) that pulls assignment dates out of pasted schedules and syllabi |
 | [Night Desk](https://github.com/maxcamplese/night-desk) | A nightly assignment checklist page and a pipeline that turns reading PDFs into offline audiobooks |
+| [Portfolio Map](https://github.com/maxcamplese/portfolio-map) | An interactive map of these repos (files, roles, import links, cross-repo references), rebuilt weekly on GitHub Pages. [Open the live map](https://maxcamplese.github.io/portfolio-map/) |
 
 ## Tools
 
